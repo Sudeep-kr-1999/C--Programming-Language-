@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.kt": "kotlinscript",
+        "Lec1.C": "cpp",
+        "stdio.h": "c",
+        "cstdio": "c",
+        "Lec16_TypeCastingInC.C": "cpp",
+        "Lec23_PassingArrayToAfunctionInC.C": "cpp",
+        "stdlib.h": "c",
+        "Lec44_CommandLineArgumentInC.C": "cpp",
+        "Lec45_CommandLineCalculatorInC.C": "cpp",
+        "string": "cpp"
+    }
+}
